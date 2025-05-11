@@ -14,4 +14,4 @@ A lightweight Python module that simplifies image manipulation using [Pillow](ht
 Install directly from GitHub:
 
 ```bash
-pip install git+https://github.com/Jithu-9847/myimage.git
+pip install git+https://github.com/Jithu-9847/MyImage.git
