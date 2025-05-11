@@ -1,0 +1,2 @@
+from .myimage import MyImage
+
