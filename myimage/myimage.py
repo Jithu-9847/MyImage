@@ -9,7 +9,7 @@ class MyImage:
     def getPixel(self, x, y):
         return self.image.getpixel((x, y))
 
-    def putPixel(self, pos, rgb):
+    def setPixel(self, pos, rgb):
         self.image.putpixel(pos, rgb)
 
     def getHeight(self):
